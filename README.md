@@ -1,17 +1,19 @@
-# impactos_ambientais
+# Eco Report AIA
 
-A new Flutter project.
+## App Mobile para realização de Diagnóstico Ambiental
 
-## Getting Started
+### O app Eco Report AIA foi desenvolvido em Flutter, como pré-requisito para o trabalho de conclusão de curso (TCC) de Tecnólogo em Análise e Desenvolvimento de Sistemas (TADS), no Instituto Federal do Piauí (IFPI). Para tanto, foi desenvolvido um aplicativo, que permite aos profissionais do meio ambiente, realizar atividades em campo de diagnóstico ambiental. O usuário pode fazer registros fotográficos, anotações e registrar as coordenadas geográficas do impacto ambiental. Também é possível salvar, na memória interna do celular, um relatório da atividade realizada em campo. O software possui registro, em parceria com o IFPI, no Instituto Nacional da Propriedade Industrial (INPI) e está estável até a versão Android 11, podendo ser baixado na Play Store.
 
-This project is a starting point for a Flutter application.
+### Link para download na Play Store:
+https://play.google.com/store/apps/details?id=br.eco_report_aia.impactos_ambientais
 
-A few resources to get you started if this is your first Flutter project:
+### Telas do app
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img src="" width="250px"/> <img src="" width="250px"/> <img src="" width="250px"/> <img src="" width="250px"/> <img src="" width="250px"/>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Eco-Report-AIA
+### Registro do app
+<img src="" width="250px"/>
+
+
+
+
